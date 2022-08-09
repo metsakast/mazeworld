@@ -1,0 +1,13 @@
+{
+  "generator.mazeworld.maze_world": "Labürindi Maailm",
+  "createWorld.customize.maze_world.title": "Labürindi Maailma Kohandamine",
+  
+  "createWorld.customize.maze_world.maze_type": "Labürindi Tüüp",
+  "maze_type.binary_tree.name": "Kahendpuu",
+  "maze_type.binary_tree.description": "Väga lihtne algoritm diagonaalkoridoride loomiseks",
+  
+  "maze_type.wang_tiles.name": "Wang Plaat",
+  "maze_type.wang_tiles.description": "Loob labürindi, täites kokku-sobivaid juhuslikke klotse",
+  
+  "createWorld.customize.maze_world.spacing": "Vahe"
+}
